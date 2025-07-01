@@ -27,7 +27,5 @@ My name is Bruna Medeiros. i
 
 
 <img align="left" alt="Rstudio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="padding-right:10px;" />
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <br />
 <br />
