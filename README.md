@@ -1,4 +1,4 @@
-Hi there, welcome to my GitHub!
+## Hi there, welcome to my GitHub!
 
 My name is Bruna Medeiros. i
 
@@ -9,7 +9,7 @@ My name is Bruna Medeiros. i
 
 ## Connect with me
 
-[<img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/brunamedeiros2001/))
+[<img align="left" alt="LinkedIn" width="35px" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"" />]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/brunamedeiros2001/))
 
 <br />
 
@@ -24,4 +24,7 @@ My name is Bruna Medeiros. i
 <img align="left" alt="R" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
 
 <br />
-<br />
+
+## Most Used Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmedeiros2001&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
