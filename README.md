@@ -21,3 +21,14 @@ My name is Bruna Medeiros and these are the projects I've worked on since joinin
 <img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+
+
+
+<br>
+<br>
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bmedeiros2001&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bmedeiros2001&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmedeiros2001&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
