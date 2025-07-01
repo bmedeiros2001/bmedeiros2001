@@ -27,4 +27,4 @@ My name is Bruna Medeiros and these are the projects I've worked on since joinin
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmedeiros2001&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmedeiros2001&layout=compact&theme=)](https://github.com/anuraghazra/github-readme-stats)
