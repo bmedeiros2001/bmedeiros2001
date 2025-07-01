@@ -1,6 +1,6 @@
 ## Hi there, welcome to my GitHub!
 
-My name is Bruna Medeiros. i
+My name is Bruna Medeiros and these are the projects I've worked on since joining my Masters!
 
 - I speak Portuguese 🇧🇷 and English 🇺🇸.
 - 📊 I am a current M.S. in Applied Data Science student at University of Chicago. I graduate on December!
