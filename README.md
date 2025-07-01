@@ -9,7 +9,7 @@ My name is Bruna Medeiros. i
 
 ## Connect with me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/brunamedeiros2001/))
+[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/brunamedeiros2001/))
 
 <br />
 
