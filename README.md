@@ -7,6 +7,9 @@ My name is Bruna Medeiros and these are the projects I've worked on since joinin
 - 📈 I have a B.S. in Business Administration with a concentration in Finance and Economics from Babson College (Class of 2023).
 - 📫 How to reach me: bmedeiros@uchicago.edu
 
+## Portfolio
+Have a look at my portfolio! (https://bmedeiros2001.github.io/Portfolio/)
+
 ## Connect with me
 
 [<img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/bmedeiros2001)
