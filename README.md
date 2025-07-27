@@ -8,7 +8,7 @@ My name is Bruna Medeiros and these are the projects I've worked on since joinin
 - 📫 How to reach me: bmedeiros@uchicago.edu
 
 ## Portfolio
-Have a look at my portfolio! (https://bmedeiros2001.github.io/Portfolio/)
+Have a look at my portfolio! [Portfolio/assets/img/favicon.png] (https://bmedeiros2001.github.io/Portfolio/)
 
 ## Connect with me
 
