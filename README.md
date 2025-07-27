@@ -7,9 +7,7 @@ My name is Bruna Medeiros and these are the projects I've worked on since joinin
 - 📈 I have a B.S. in Business Administration with a concentration in Finance and Economics from Babson College (Class of 2023).
 - 📫 How to reach me: bmedeiros@uchicago.edu
 
-**A little background about me:** I am not from a technical background. I studied business administration and had internships and a full-time role in banking. However, I am extremely passionate about startups, tech, and building valuable products. With the recent growth of Artificial Intelligence, that was when I realized I needed to make the shift, and that was when I applied for University of Chicago’s M.S. in Applied Data Science program! 
-
-This is just the beginning of my journey. So, stay tuned! Many more projects are yet to come.
+**A little background about me:** I am not from a technical background. I studied business administration and had internships and a full-time role in banking. However, I am extremely passionate about startups, tech, and building valuable products. With the recent growth of Artificial Intelligence, that was when I realized I needed to make the shift, and that was when I applied for University of Chicago’s M.S. in Applied Data Science program! This is just the beginning of my journey. So, stay tuned! Many more projects are yet to come.
 
 ## Portfolio
 <a href="https://bmedeiros2001.github.io/Portfolio/"><img src="https://bmedeiros2001.github.io/Portfolio/assets/img/favicon.png" width="35px" height="35px" alt="Portfolio favicon"/></a>
