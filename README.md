@@ -8,11 +8,13 @@ My name is Bruna Medeiros and these are the projects I've worked on since joinin
 - 📫 How to reach me: bmedeiros@uchicago.edu
 
 ## Portfolio
-Have a look at my portfolio! [<img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />] [Portfolio/assets/img/favicon.png] (https://bmedeiros2001.github.io/Portfolio/)
-
-## Portfolio
 Have a look at my portfolio!  
 [![Portfolio](https://bmedeiros2001.github.io/Portfolio/assets/img/favicon.png)](https://bmedeiros2001.github.io/Portfolio/)
+
+Have a look at my portfolio!  
+<a href="https://bmedeiros2001.github.io/Portfolio/">
+  <img src="https://bmedeiros2001.github.io/Portfolio/assets/img/favicon.png" width="40" height="40" alt="Portfolio favicon"/>
+</a>
 
 
 ## Connect with me
